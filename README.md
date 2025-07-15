@@ -1,4 +1,4 @@
 ## Data Structures & Algorithms
 
-1. Recursiq
+1. Recursion
 2. 
